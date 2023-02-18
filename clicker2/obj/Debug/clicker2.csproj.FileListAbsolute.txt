@@ -1,0 +1,11 @@
+C:\projects\clicker2\clicker2\bin\Debug\clicker2.exe.config
+C:\projects\clicker2\clicker2\bin\Debug\clicker2.exe
+C:\projects\clicker2\clicker2\bin\Debug\clicker2.pdb
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.csproj.AssemblyReference.cache
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.csproj.SuggestedBindingRedirects.cache
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.Properties.Resources.resources
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.csproj.GenerateResource.cache
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.csproj.CoreCompileInputs.cache
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.exe
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.pdb
+C:\projects\clicker2\clicker2\obj\Debug\clicker2.OpenWindowGetter.resources

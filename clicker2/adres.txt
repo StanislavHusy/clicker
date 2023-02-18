@@ -1,0 +1,23 @@
+  // zoom click
+2
+1907
+1015
+  // red
+1092
+71
+  // line
+619
+74
+  // cursor start
+165
+285
+  // save buttom
+56
+9
+  // end
+1906
+9
+  // time pause
+1000
+  // main pause
+20
